@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB68F9&center=true&vCenter=true&width=435&lines=Mobile+Developer;Flutter+%7C+iOS+%7C+Android;Lover+of+Clean+Architecture;Open+to+Collaboration!%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ## 💜 Hi, I’m Nada!
 
 I'm a passionate **Mobile Developer** with a love for crafting elegant and scalable apps using the latest technologies.  
@@ -37,13 +41,9 @@ Fluent in building for **iOS**, **Flutter**, and **Android**, and always explori
   
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-  <!-- Other -->
-  <img src="https://img.shields.io/badge/RxSwift-%23F56C00.svg?style=flat&logo=reactivex&logoColor=white" height="30"/>
 </p>
-
 
 ---
 
-📫 **Let’s connect**  
+📢 **Let’s connect**  
 [LinkedIn](https://www.linkedin.com/in/nada-gharib-b30915231) • [Email](mailto:nadagharib2044@gmail.com)
