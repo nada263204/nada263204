@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB68F9&center=true&vCenter=true&width=435&lines=iOS+Developer;Flutter+%7C+iOS+%7C+Android;Mobile+Developer+with+a+passion+for+UI%2FUX%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB68F9&center=true&vCenter=true&width=435&lines=Mobile+Application+Developer+(iOS+%2B+Flutter+%2B+Android)" alt="Typing SVG" />
 </p>
 
 ## 💜 Hi, I’m Nada!
