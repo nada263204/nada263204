@@ -26,8 +26,8 @@ Room • UserDefaults • Dependency Injection • Git • Postman • Xcode •
 
 ### 📊 GitHub Stats
 
-![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nada263204&show_icons=true&theme=react&hide=issues&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nada263204&layout=compact&theme=react)
+![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nada263204&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nada263204&layout=compact&theme=tokyonight)
 
 ---
 
