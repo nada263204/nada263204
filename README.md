@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB68F9&center=true&vCenter=true&width=435&lines=Mobile+Application+Developer;iOS+%7C+Flutter+%7C+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB68F9&center=true&vCenter=true&width=435&lines=Hello+I+am+Nada;Mobile+Application+Developer+(iOS+%2B+Flutter+%2B+Android)" alt="Typing SVG" />
 </p>
-
-## 💜 Hi, I’m Nada!
 
 I'm a passionate **Mobile Developer** with a love for crafting elegant and scalable apps using the latest technologies.  
 Fluent in building for **iOS**, **Flutter**, and **Android**, and always exploring new ways to improve performance, architecture, and UI/UX.
@@ -42,6 +40,13 @@ Fluent in building for **iOS**, **Flutter**, and **Android**, and always explori
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nada263204&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nada263204&layout=compact&theme=tokyonight)
 
 ---
 
