@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB68F9&center=true&vCenter=true&width=435&lines=Hello+I+am+Nada;Mobile+Application+Developer+(iOS+%2B+Flutter+%2B+Android)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB68F9&center=true&vCenter=true&width=435&lines=Hello+I+am+Nada;lines=Mobile+Application+Developer;iOS+%7C+Flutter+%7C+Android" alt="Typing SVG" />
 </p>
 
 I'm a passionate **Mobile Developer** with a love for crafting elegant and scalable apps using the latest technologies.  
